@@ -1,4 +1,17 @@
 body {
-    background-color; lightpink;
+    background-color: lightpink;
 }
-h1{font-family: }
+
+h1 {
+    font-family: 'Times New Roman';
+    color: darkblue;
+    border: solid 3px green;
+}
+
+p {
+    font-weight: bold;
+}
+
+#banner {
+    width: 200px
+}
